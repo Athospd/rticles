@@ -1,0 +1,4 @@
+name: SBC Article
+description: >
+ Template for creating an article for submission to SBC
+create_dir: true
